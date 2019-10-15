@@ -1,0 +1,20 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.1",
+  "description": "dev-env how-to-npm workshopper",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "marounmelhem",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marounmelhem/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marounmelhem/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/marounmelhem/how-to-npm#readme",
+  "dependencies": {}
+}
